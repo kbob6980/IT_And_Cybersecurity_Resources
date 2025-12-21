@@ -36,7 +36,7 @@ This list features books, courses, YouTube videos, fun website etc. The list is 
 * 🆓📜 [**Cyber Security Roadmap**](https://roadmap.sh/cyber-security) \
   Track your Cyber Security learning path with this awesome, interactive tool. If you're unsure what to study next or even what might be useful this is the place to go. It feature a lot of useful resources and is completely free. Worth checking     out!
   
-* 💵📚🇵🇱 [**Bezpieczeństwo domowego routera Wi-Fi. Wprowadzenie**](https://wydawnictwo.securitum.pl/bezpieczenstwo-domowego-routera-wifi) \
+* 💵📚🇵🇱 [**Bezpieczeństwo domowego routera Wi-Fi. Wprowadzenie by Adam Samson**](https://wydawnictwo.securitum.pl/bezpieczenstwo-domowego-routera-wifi) \
   ONLY IN POLISH!!! Jeżeli interesuje cię bezpieczeństwo domowej sieci warto dać tej książce szansę. Idealnie nadaje się dla osób, które nie są zaznajomione z terminologią związaną z IT, a chciałyby się czegoś dowiedzieć na ten temat.
 
 * 🆓👨‍💻 [**Virtual Job Simulations at theforage.com**](https://www.theforage.com/simulations) \
