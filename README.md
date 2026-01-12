@@ -34,13 +34,16 @@ This list features books, courses, YouTube videos, fun website etc. The list is 
   This course is meant to take you ~70h and goes through the basics of ethical hacking as the name suggests.
 
 * 🆓📜 [**Cyber Security Roadmap**](https://roadmap.sh/cyber-security) \
-  Track your Cyber Security learning path with this awesome, interactive tool. If you're unsure what to study next or even what might be useful this is the place to go. It feature a lot of useful resources and is completely free. Worth checking     out!
+  Track your Cyber Security learning path with this awesome, interactive tool. If you're unsure what to study next or even what might be useful this is the place to go. It feature a lot of useful resources and is completely free. Worth checking out!
   
 * 💵📚🇵🇱 [**Bezpieczeństwo domowego routera Wi-Fi. Wprowadzenie by Adam Samson**](https://wydawnictwo.securitum.pl/bezpieczenstwo-domowego-routera-wifi) \
   ONLY IN POLISH!!! Jeżeli interesuje cię bezpieczeństwo domowej sieci warto dać tej książce szansę. Idealnie nadaje się dla osób, które nie są zaznajomione z terminologią związaną z IT, a chciałyby się czegoś dowiedzieć na ten temat.
 
 * 🆓👨‍💻 [**Virtual Job Simulations at theforage.com**](https://www.theforage.com/simulations) \
   Forage offers a bunch of virtual simulations not only in the cybersecurity field but also banking, engineering, marketing and many more. Those job simulations are provided by some of the biggest companies in the world and usually give you a couple of tasks to complete self-paced. Also each simulation gives you a nice certificate that you can use in your resume and this might help you land a job at the desired company that provided the simulation.
+
+* 💵📚 [**Practical Social Engineering by Joe Gray**](https://nostarch.com/practical-social-engineering) \
+  If you're into OSINT then do yourself a favour and check out this book. It changed my life :)
 
 ***
 
