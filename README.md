@@ -45,6 +45,10 @@ This list features books, courses, YouTube videos, fun website etc. The list is 
 * 💵📚 [**Practical Social Engineering by Joe Gray**](https://nostarch.com/practical-social-engineering) \
   If you're into OSINT then do yourself a favour and check out this book. It changed my life :)
 
+  * 💵📚🇵🇱 [**Wprowadzenie do bezpieczeństwa IT - Tom 1**](https://wydawnictwo.securitum.pl/ksiazka-wprowadzenie-do-bezpieczenstwa-it-tom-1) \
+  ONLY IN POLISH!!! Ponad 900 stron wypchanych wiedzą. Znajdziesz tu wszystko: od urządzeń mobilnych, przez Powershell w ofensywie, aż po bezpieczeństwo fizyczne obiektów. Polecam skupić się na rozdziałach, które interesują cię najbardziej, ponieważ zakres tematów jest bardzo szeroki i niektóre z nich będą dla ciebie bardziej użyteczne niż inne (co nie oznacza, że musisz je zignorować 😉). Polecam.
+  
+
 ***
 
 ## Linux 🐧 <a name="linux"></a>
