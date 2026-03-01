@@ -1,5 +1,5 @@
-# My list of carefully selected learning resources I've used and recommend. WIP !!!
-This list features books, courses, YouTube videos, fun website etc. The list is sorted by relevant topic. I'll try to add corresponding emojis to make it simple to see what is a free resource, paid resource, resource type and whatever QoA I'll come up with :)
+# My list of carefully selected learning resources I've used and can honestly recommend. (Work in progress)
+This list features books, courses, YouTube videos, fun website etc. that I've personally used to learn more about IT and Cybersecurity. The list is sorted by relevant topic for the ease of use.
 
 ***
 
