@@ -8,6 +8,7 @@ This list features books, courses, YouTube videos, fun website etc. that I've pe
 - [Cybersecurity](#cybersecurity)
 - [Linux](#linux)
 - [Networking](#networking)
+- [News](#news)
 - [Python](#python)
 - [Bonus resources](#bonus)
 
@@ -86,6 +87,17 @@ This list features books, courses, YouTube videos, fun website etc. that I've pe
 * 💵📚 **Computer Networking: A Top-Down Approach by Kurose and Rose** \
   Eveything a beginner should know about computer networking. There's a bunch of exercises included in the last chapter of the book.
 
+***
+
+## News 📰 <a name="news"></a>
+* 📰 [**The Hacker News**](https://thehackernews.com/)\
+  Latest news from the world of cybersecurity. They usualy do a couple of posts every day with a lot of useful details. Worth checking out
+
+* 📰🇵🇱 [**Sekurak**](https://sekurak.pl/) \
+  Jeden z największych serwisów poświęconych cyberbezpieczeństwu w Polsce. Gorąco polecam zapoznać się z ofertą ich wydawnictwa Securitum.
+
+* 📰 [**How-To-Geek**](https://www.howtogeek.com/)\
+  Latest IT news, tips and fun articles. Found a couple of cool ideas for side projects there so I maybe you'd find something for yourself ;)
 
 ***
 
