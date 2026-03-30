@@ -46,9 +46,14 @@ This list features books, courses, YouTube videos, fun website etc. that I've pe
 * 💵📚 [**Practical Social Engineering by Joe Gray**](https://nostarch.com/practical-social-engineering) \
   If you're into OSINT then do yourself a favour and check out this book. It changed my life :)
 
-  * 💵📚🇵🇱 [**Wprowadzenie do bezpieczeństwa IT - Tom 1**](https://wydawnictwo.securitum.pl/ksiazka-wprowadzenie-do-bezpieczenstwa-it-tom-1) \
+ * 💵📚🇵🇱 [**Wprowadzenie do bezpieczeństwa IT - Tom 1**](https://wydawnictwo.securitum.pl/ksiazka-wprowadzenie-do-bezpieczenstwa-it-tom-1) \
   ONLY IN POLISH!!! Ponad 900 stron wypchanych wiedzą. Znajdziesz tu wszystko: od urządzeń mobilnych, przez Powershell w ofensywie, aż po bezpieczeństwo fizyczne obiektów. Polecam skupić się na rozdziałach, które interesują cię najbardziej, ponieważ zakres tematów jest bardzo szeroki i niektóre z nich będą dla ciebie bardziej użyteczne niż inne (co nie oznacza, że musisz je zignorować 😉). Polecam.
-  
+
+* 🆓👨‍💻 [**Bellingcat’s Online Open Source Investigation Toolkit**](https://bellingcat.gitbook.io/toolkit) \
+  Great place to start if you're looking for a comprehensive list of OSINT tools for your research.
+
+* 🆓🌐 [**MITRE ATT&CK Matrix Poster**](https://attack.mitre.org/docs/attack_matrix_poster_2024_april.pdf) \
+  Cool poster in the form of a pdf. It makes understanding cyber-attacks easier and looks cool on the wall ;)
 
 ***
 
