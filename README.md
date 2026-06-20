@@ -58,6 +58,9 @@ This list features books, courses, YouTube videos, fun website etc. that I've pe
 * 💵📚 [**The Lazarus Heist – From Hollywood to High Finance: Inside North Korea’s Global Cyber War by Geoff White**](https://www.amazon.co.uk/Lazarus-Heist-Based-Hit-podcast/dp/0241554276) \
   This book uncovers the story of the North Korean hacking organization behind some of the world's most audacious cyberattacks, from the Sony Pictures breach to billion-dollar bank and cryptocurrency heists. The book reveals how cybercrime has become a crucial tool for North Korea to generate revenue, evade sanctions, and project power on the global stage. It's not a technical book but still highly interesting.
 
+* 💵📚 [**Windows Security Internals: A Deep Dive into Windows Authentication, Authorization, and Auditing by James Forshaw**](https://www.amazon.com/Windows-Security-Internals-Authentication-Authorization/dp/1718501986) \
+  As the title suggests it's a deep dive into Windows security focused mainly on the kernel and interacting with it. A decent understanding of PowerShell is highly required. Definitely not for beginners.
+
 ***
 
 ## Linux 🐧 <a name="linux"></a>
