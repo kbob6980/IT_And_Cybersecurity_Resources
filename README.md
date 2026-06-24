@@ -61,6 +61,9 @@ This list features books, courses, YouTube videos, fun website etc. that I've pe
 * 💵📚 [**Windows Security Internals: A Deep Dive into Windows Authentication, Authorization, and Auditing by James Forshaw**](https://www.amazon.com/Windows-Security-Internals-Authentication-Authorization/dp/1718501986) \
   As the title suggests it's a deep dive into Windows security focused mainly on the kernel and interacting with it. A decent understanding of PowerShell is highly required. Definitely not for beginners.
 
+* 🆓🌐 [**APT1 Exposing One of China’s Cyber Espionage Units by Mandiant**](https://services.google.com/fh/files/misc/mandiant-apt1-report.pdf) \
+  A thorough report on the APT1 which is a Chinese-based hacker group responsible for cyber-espionage on a global scale. Highly interesting.
+
 ***
 
 ## Linux 🐧 <a name="linux"></a>
