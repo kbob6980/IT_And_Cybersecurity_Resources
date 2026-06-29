@@ -101,6 +101,9 @@ This list features books, courses, YouTube videos, fun website etc. that I've pe
 * 💵📚 **Computer Networking: A Top-Down Approach by Kurose and Rose** \
   Eveything a beginner should know about computer networking. There's a bunch of exercises included in the last chapter of the book.
 
+* 🆓📚 [**Understanding IP Addressing: Everything You Ever Wanted To Know**](https://archive.org/details/B-001-002-066) \
+  Everything you ever wanted to know about IPs. It's a bit dated but still worth reading since IP addresses are such a crucial part of the computer networks.
+
 ***
 
 ## News 📰 <a name="news"></a>
