@@ -1,0 +1,208 @@
+# 📚 IT & Cybersecurity Learning Hub (Work in progress)
+A carefully curated collection of learning resources that I've personally used and genuinely recommend.
+
+Whether you're learning Linux, networking, cybersecurity or programming, you'll find books, courses, labs, websites, videos and practical tools that are actually worth your time.
+
+Every resource has been hand-picked.
+
+***
+
+## Table of Contetns:
+- New to IT? [Start here!](#starter)
+- [Operating Systems](#os)
+- [Networking](#net)
+- [Cybersecurity](#cyber)
+- [Programming](#prog)
+- [Hands-on Labs](#labs)
+- [Books](#books)
+- [YouTube/Videos](#yt)
+- [News](#news)
+- [Useful Tools](#utools)
+- [Useful Websites](#uweb)
+- [Certifications](#cert)
+- [Fun Stuff :)](#fun)
+
+
+- [Bash](#bash)
+- [Cybersecurity](#cybersecurity)
+- [Linux](#linux)
+- [Networking](#networking)
+- [News](#news)
+- [Python](#python)
+- [Bonus resources](#bonus)
+
+
+***
+## New to IT? Start here! 👶 <a name="starter"></a>
+Never touched Linux? Never programmed? Want to learn networking? Here's a couple resources that'd certainly be useful to you in the early days. If you're need to IT, please don't skip this section. Fundamentals should be your top priority.
+
+
+* 🆓📚 [**Understanding IP Addressing: Everything You Ever Wanted To Know**](https://archive.org/details/B-001-002-066)<br>
+Everything you ever wanted to know about IPs. It's a bit dated but still worth reading since IP addresses are such a crucial part of the computer networks.
+
+* 🆓📺 [**You need to learn BASH Scripting RIGHT NOW!!**](https://www.youtube.com/playlist?list=PLIhvC56v63IKioClkSNDjW7iz-6TFvLwS)<br>
+Free YouTube course/playlist that will get you through the basics of Bash scripting with some interesting exercises, great humour and a lot of coffee 😉☕. Probably the best place to start learning Bash!
+
+* 🆓📺 [**IT Helpdesk/Support Real Life Tickets by Kevtech IT Support**](https://www.youtube.com/playlist?list=PLdh13bXVc6-mjvXjY25U-1eF63ZH6CeX8)<br>
+  A great YouTube playlist that will teach you how to solve many different IT Helpdesk tickets. Check out Kevin's YouTube channel for a lot of valuable content in the helpdesk field and more.
+
+* 🆓🌐🇵🇱 [**Navoica (Polish Only!)**](https://discovery.navoica.pl/courses?navoica_product_pl%5BrefinementList%5D%5Bsubject%5D%5B0%5D=Informatyka&navoica_product_pl%5BrefinementList%5D%5Bsubject%5D%5B1%5D=Matematyka&navoica_product_pl%5BrefinementList%5D%5Bsubject%5D%5B2%5D=Programowanie&navoica_product_pl%5BsortBy%5D=navoica_product_pl%2Fsort%2Fenrollment_start%3Adesc)<br>
+ Navoica to platforma z kursami tworzonymi przez polskie uniwersytety. Jest finansowana z budżetu Państwa, więć wszystkie kursy są dostępne za darmo, wystarczy się zalogować. Dostępne są kursy z m.in. informatyki, programowania i matematyki.
+
+* 🆓📺 [**Python RIGHT NOW!!  NetworkChuck**](https://www.youtube.com/playlist?list=PLIhvC56v63ILPDA2DQBv0IKzqsWTZxCkp)<br>
+Free YouTube course/playlist that will get you through the basics of Python with some interesting exercises, great humour and a lot of coffee 😉☕
+
+* 💵📚 **Linux for Beginners: An Introduction to the Linux Operating System and Command Line by Jason Cannon**<br>
+Another Linux book for beginners. To be fair this one is not my favorite since there are better and cheaper alternatives. Feel free to check it out if you wish to.
+
+* 🆓📚 [**Linux Commands Cheat Sheet**](https://cdn.hostinger.com/tutorials/pdf/Linux-Commands-Cheat-Sheet.pdf)<br>
+Super small PDF file with only the most useful commands created by Hostinger. Best for absolute beginners.
+
+* 🆓🌐 [**Linux Journey**](https://labex.io/linuxjourney)<br>
+Interesting introduction to Linux as a whole. Short and simple, as everything should be :)
+
+* 🆓📝 [**Junior Cybersecurity Analyst Career Path by Cisco**](https://www.netacad.com/career-paths/cybersecurity?courseLang=en-US)<br>
+It's an awesome introductory series of courses that can get you a nice certificate. Also you can try to take Cisco Certified Support Technician (CCST) Cybersecurity exam afterwards but this one isn't free at the time of making this list.<br>
+This course consists of 6 smaller courses with the final exam at the end. You can take each course individualy and get a smaller certification each time you complete it if you wish to. Here's a list of the courses mentioned: Introduction to Cybersecurity, Networking Basics, Networking Devices and Initial Configuration, Endpoint Security, Network Defense, Cyber Threat Management.
+
+* 🆓📝 [**Network Technician Career Path by Cisco**](https://www.netacad.com/career-paths/network-technician?courseLang=en-US<br>
+It's an awesome introductory series of courses that can get you a nice certificate in the Networking field. Also you can try to take Cisco Certified Support Technician (CCST) Network exam afterwards but this one isn't free at the time of making this list.<br>
+This course consists of 4 smaller courses with the final exam at the end. You can take each course individualy and get a smaller certification each time you complete it if you wish to. Here's a list of the courses mentioned: Networking Basics, Networking Devices and Initial Configuration, Network Addressing and Basic Troubleshooitng, Network Support and Security
+
+
+
+
+
+
+
+
+
+## Bash 🐌 <a name="bash"></a>
+* 🆓📺 [**You need to learn BASH Scripting RIGHT NOW!!**](https://www.youtube.com/playlist?list=PLIhvC56v63IKioClkSNDjW7iz-6TFvLwS)\
+  Free YouTube course/playlist that will get you through the basics of Bash scripting with some interesting exercises, great humour and a lot of coffee 😉☕. Probably the best place to start learning Bash!
+
+***
+
+## Cybersecurity 🔐 <a name="cybersecurity"></a>
+* 🆓📝 [**Junior Cybersecurity Analyst Career Path by Cisco**](https://www.netacad.com/career-paths/cybersecurity?courseLang=en-US) \
+  It's an awesome introductory series of courses that can get you a nice certificate. Also you can try to take Cisco Certified Support Technician (CCST) Cybersecurity exam afterwards but this one isn't free at the time of making this list.\
+  This course consists of 6 smaller courses with the final exam at the end. You can take each course individualy and get a smaller certification each time you complete it if you wish to. Here's a list of the courses mentioned:
+  * Introduction to Cybersecurity
+  * Networking Basics
+  * Networking Devices and Initial Configuration
+  * Endpoint Security
+  * Network Defense
+  * Cyber Threat Management
+    
+* 🆓📝 [**Ethical Hacker by Cisco**](https://www.netacad.com/courses/ethical-hacker?courseLang=en-US) \
+  This course is meant to take you ~70h and goes through the basics of ethical hacking as the name suggests.
+
+* 🆓📜 [**Cyber Security Roadmap**](https://roadmap.sh/cyber-security) \
+  Track your Cyber Security learning path with this awesome, interactive tool. If you're unsure what to study next or even what might be useful this is the place to go. It feature a lot of useful resources and is completely free. Worth checking out!
+  
+* 💵📚🇵🇱 [**Bezpieczeństwo domowego routera Wi-Fi. Wprowadzenie by Adam Samson**](https://wydawnictwo.securitum.pl/bezpieczenstwo-domowego-routera-wifi) \
+  ONLY IN POLISH!!! Jeżeli interesuje cię bezpieczeństwo domowej sieci warto dać tej książce szansę. Idealnie nadaje się dla osób, które nie są zaznajomione z terminologią związaną z IT, a chciałyby się czegoś dowiedzieć na ten temat.
+
+* 🆓👨‍💻 [**Virtual Job Simulations at theforage.com**](https://www.theforage.com/simulations) \
+  Forage offers a bunch of virtual simulations not only in the cybersecurity field but also banking, engineering, marketing and many more. Those job simulations are provided by some of the biggest companies in the world and usually give you a couple of tasks to complete self-paced. Also each simulation gives you a nice certificate that you can use in your resume and this might help you land a job at the desired company that provided the simulation.
+
+* 💵📚 [**Practical Social Engineering by Joe Gray**](https://nostarch.com/practical-social-engineering) \
+  If you're into OSINT then do yourself a favour and check out this book. It changed my life :)
+
+ * 💵📚🇵🇱 [**Wprowadzenie do bezpieczeństwa IT - Tom 1**](https://wydawnictwo.securitum.pl/ksiazka-wprowadzenie-do-bezpieczenstwa-it-tom-1) \
+  ONLY IN POLISH!!! Ponad 900 stron wypchanych wiedzą. Znajdziesz tu wszystko: od urządzeń mobilnych, przez Powershell w ofensywie, aż po bezpieczeństwo fizyczne obiektów. Polecam skupić się na rozdziałach, które interesują cię najbardziej, ponieważ zakres tematów jest bardzo szeroki i niektóre z nich będą dla ciebie bardziej użyteczne niż inne (co nie oznacza, że musisz je zignorować 😉). Polecam.
+
+* 🆓👨‍💻 [**Bellingcat’s Online Open Source Investigation Toolkit**](https://bellingcat.gitbook.io/toolkit) \
+  Great place to start if you're looking for a comprehensive list of OSINT tools for your research.
+
+* 🆓🌐 [**MITRE ATT&CK Matrix Poster**](https://attack.mitre.org/docs/attack_matrix_poster_2024_april.pdf) \
+  Cool poster in the form of a pdf. It makes understanding cyber-attacks easier and looks cool on the wall ;)
+
+* 💵📚 [**The Lazarus Heist – From Hollywood to High Finance: Inside North Korea’s Global Cyber War by Geoff White**](https://www.amazon.co.uk/Lazarus-Heist-Based-Hit-podcast/dp/0241554276) \
+  This book uncovers the story of the North Korean hacking organization behind some of the world's most audacious cyberattacks, from the Sony Pictures breach to billion-dollar bank and cryptocurrency heists. The book reveals how cybercrime has become a crucial tool for North Korea to generate revenue, evade sanctions, and project power on the global stage. It's not a technical book but still highly interesting.
+
+* 💵📚 [**Windows Security Internals: A Deep Dive into Windows Authentication, Authorization, and Auditing by James Forshaw**](https://www.amazon.com/Windows-Security-Internals-Authentication-Authorization/dp/1718501986) \
+  As the title suggests it's a deep dive into Windows security focused mainly on the kernel and interacting with it. A decent understanding of PowerShell is highly required. Definitely not for beginners.
+
+* 🆓🌐 [**APT1 Exposing One of China’s Cyber Espionage Units by Mandiant**](https://services.google.com/fh/files/misc/mandiant-apt1-report.pdf) \
+  A thorough report on the APT1 which is a Chinese-based hacker group responsible for cyber-espionage on a global scale. Highly interesting.
+
+***
+
+## Linux 🐧 <a name="linux"></a>
+* 🆓📺 [**Linux for Hackers by NetworkChuck**](https://www.youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL)\
+  Free YouTube course/playlist that will get you through the basics of Linux with a lot of great humour and coffee 😉☕
+
+* 🆓📜 [**Linux Roadmap**](https://roadmap.sh/linux) \
+  Track your Linux learning path with this awesome, interactive tool. If you're unsure what to study next or even what might be useful this is the place to go. It feature a lot of useful resources and is completely free. Worth checking out!
+
+* 🆓📚 [**The Linux Command Line by William Shotts**](https://sourceforge.net/projects/linuxcommand/files/TLCL/24.11/TLCL-24.11.pdf/download) \
+  600 pages of pure Linux knowledge, everything from basics of system management to bash scripting, with a lot of fun facts that will make studying a lot more enjoyable :
+
+* 🆓📚 [**The Linux Commands Handbook by Flavio Copes**](https://flaviocopes.com/access/) \
+  This book is like a 'man' page of all the most common commands but in a more comprehensible way. At the time of writing this entry you can claim this book and a couple more simply by subscribing to Flavio's newsletter.
+
+* 💵📚 **Linux for Beginners: An Introduction to the Linux Operating System and Command Line by Jason Cannon** \
+  Another Linux book for beginners. To be fair this one is not my favorite since there are better and cheaper alternatives. Feel free to check it out if you wish to.
+
+* 🆓📚 [**Linux Commands Cheat Sheet**](https://cdn.hostinger.com/tutorials/pdf/Linux-Commands-Cheat-Sheet.pdf) \
+  Super small PDF file with only the most useful commands created by Hostinger. Best for absolute beginners.
+
+* 🆓🌐 [**Linux Journey**](https://labex.io/linuxjourney) \
+  Interesting introduction to Linux as a whole. Short and simple, as everything should be :)
+
+***
+## Networking 🖥 <a name="networking"></a>
+* 🆓📝 [**Network Technician Career Path by Cisco**](https://www.netacad.com/career-paths/network-technician?courseLang=en-US)\
+  It's an awesome introductory series of courses that can get you a nice certificate in the Networking field. Also you can try to take Cisco Certified Support Technician (CCST) Network exam afterwards but this one isn't free at the time of making this list.\
+  This course consists of 4 smaller courses with the final exam at the end. You can take each course individualy and get a smaller certification each time you complete it if you wish to. Here's a list of the courses mentioned:
+  * Networking Basics
+  * Networking Devices and Initial Configuration
+  * Network Addressing and Basic Troubleshooitng
+  * Network Support and Security
+
+* 💵📚 **Computer Networking: A Top-Down Approach by Kurose and Rose** \
+  Eveything a beginner should know about computer networking. There's a bunch of exercises included in the last chapter of the book.
+
+* 🆓📚 [**Understanding IP Addressing: Everything You Ever Wanted To Know**](https://archive.org/details/B-001-002-066) \
+  Everything you ever wanted to know about IPs. It's a bit dated but still worth reading since IP addresses are such a crucial part of the computer networks.
+
+***
+
+## News 📰 <a name="news"></a>
+* 📰 [**The Hacker News**](https://thehackernews.com/)\
+  Latest news from the world of cybersecurity. They usualy do a couple of posts every day with a lot of useful details. Worth checking out
+
+* 📰🇵🇱 [**Sekurak**](https://sekurak.pl/) \
+  Jeden z największych serwisów poświęconych cyberbezpieczeństwu w Polsce. Gorąco polecam zapoznać się z ofertą ich wydawnictwa Securitum.
+
+* 📰 [**How-To-Geek**](https://www.howtogeek.com/)\
+  Latest IT news, tips and fun articles. Found a couple of cool ideas for side projects there so I maybe you'd find something for yourself ;)
+
+***
+
+## Python 🐍 <a name="python"></a>
+* 🆓📺 [**Python RIGHT NOW!!  NetworkChuck**](https://www.youtube.com/playlist?list=PLIhvC56v63ILPDA2DQBv0IKzqsWTZxCkp)\
+  Free YouTube course/playlist that will get you through the basics of Python with some interesting exercises, great humour and a lot of coffee 😉☕
+
+***
+
+## Bonus resources! 🎁 <a name="bonus"></a>
+* 💵📚 [**Humble Bundle**](https://www.humblebundle.com)\
+  Humble Bundle is a great place to look for *you guessed it* bundles of books for as little as 1$. Highly recommend it for great quality books. Also it's worth noting that by buying stuff from Humble Bundle you can also support many charity      organisation by deciding where your money should go to.
+
+* 🆓🌐 [**Kaspersky cyberthreat live map**](https://cybermap.kaspersky.com/)\
+  As the name suggest it's a live map of cyberthreats. I absolutely love the visuals of this one. There are many more interesting websites that provide live view of ongoing cyberattacks so feel free to look for them. This is simply one of them that I like at from time to time :)
+
+* 🆓📺 [**IT Helpdesk/Support Real Life Tickets by Kevtech IT Support**](https://www.youtube.com/playlist?list=PLdh13bXVc6-mjvXjY25U-1eF63ZH6CeX8)\
+  A great YouTube playlist that will teach you how to solve many different IT Helpdesk tickets. Check out Kevin's YouTube channel for a lot of valuable content in the helpdesk field and more.
+
+* 🆓🌐🇵🇱 [**Navoica (Polish Only!!!)**](https://discovery.navoica.pl/courses?navoica_product_pl%5BrefinementList%5D%5Bsubject%5D%5B0%5D=Informatyka&navoica_product_pl%5BrefinementList%5D%5Bsubject%5D%5B1%5D=Matematyka&navoica_product_pl%5BrefinementList%5D%5Bsubject%5D%5B2%5D=Programowanie&navoica_product_pl%5BsortBy%5D=navoica_product_pl%2Fsort%2Fenrollment_start%3Adesc)\
+  Navoica to platforma z kursami tworzonymi przez polskie uniwersytety. Jest finansowana z budżetu Państwa, więć wszystkie kursy są dostępne za darmo, wystarczy się zalogować. Dostępne są kursy z m.in. informatyki, programowania i matematyki.
+
+<br/><br/>
+<br/><br/>
+<br/><br/>
+
+*Disclaimer\
+I don't own and I'm not associated with any of the provided resources authors or developers. The entire content of this repository is meant for educational purposes only. If you encounter any issues please contact me.*
