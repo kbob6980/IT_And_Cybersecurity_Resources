@@ -17,7 +17,7 @@ Every resource has been hand-picked.
 ↳ [Defensive](#cyberde)<br>
 ↳ [Offensive](#cyberof)<br>
 ↳ [OSINT](#cyberosint)<br>
-↳ [Cyber Threat Intelligence](#cybercti)
+↳ [Cyber Threat Intelligence](#cybercti)<br>
 ↳ [Malware Analysis](#cyberma)
 - [Programming](#prog)<br>
 ↳ [Bash](#progba)<br>
@@ -184,7 +184,7 @@ It shouldn't come to you as a surprise that this section is going to be quite ma
 * 🆓🌐 [**Osint Dojo**](https://www.osintdojo.com/resources/) <br>
   OSINT Dojo Resources is a comprehensive online directory of free tools, guides, tutorials, and training materials organized by categories such as people searches, geolocation, social media, domains, images, and cryptocurrencies. It serves as a central reference researchers seeking reliable resources to conduct ethical OSINT investigations and develop their investigative skills.
 
-### Cyber Threat Intelligence 🧠
+### Cyber Threat Intelligence 🧠 <a name="cybercti></a>
 
 * 💵📚 [**The Lazarus Heist – From Hollywood to High Finance: Inside North Korea’s Global Cyber War by Geoff White**](https://www.amazon.co.uk/Lazarus-Heist-Based-Hit-podcast/dp/0241554276) <br>
   This book uncovers the story of the North Korean hacking organization behind some of the world's most audacious cyberattacks, from the Sony Pictures breach to billion-dollar bank and cryptocurrency heists. The book reveals how cybercrime has become a crucial tool for North Korea to generate revenue, evade sanctions, and project power on the global stage. It's not a technical book but still highly interesting.
