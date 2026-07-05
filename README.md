@@ -140,7 +140,11 @@ It shouldn't come to you as a surprise that this section is going to be quite ma
 * 🆓📰 [**How-To-Geek**](https://www.howtogeek.com/)<br>
   Latest IT news, tips and fun articles. Found a couple of cool ideas for side projects there so I maybe you'd find something for yourself ;)
 
+ * 💵📚 [**Hack the Cybersecurity Interview**](https://www.amazon.com/Hack-Cybersecurity-Interview-jumpstarting-cybersecurity/dp/1801816638)<br>
+  Get your dream job and set off on the right path to achieving success in the cybersecurity field with expert tips on preparing for interviews, understanding cybersecurity roles, and more.
 
+ * 💵📚 [**Tribe of Hackers: Cybersecurity Advice from the Best Hackers in the World**](https://www.amazon.com/Tribe-Hackers-Cybersecurity-Advice-World/dp/1119643376)<br>
+  Looking for real-world advice from leading cybersecurity experts? You’ve found your tribe. This unique guide includes inspiring interviews from 70 security experts.
 
 ### Defensive 🛡️ <a name="cyberde"></a>
 * 🆓📝 [**Junior Cybersecurity Analyst Career Path by Cisco**](https://www.netacad.com/career-paths/cybersecurity?courseLang=en-US)<br>
@@ -198,6 +202,12 @@ It shouldn't come to you as a surprise that this section is going to be quite ma
 * 🆓🌐 [**Kaspersky cyberthreat live map**](https://cybermap.kaspersky.com/)<br>
   As the name suggest it's a live map of cyberthreats. I absolutely love the visuals of this one. There are many more interesting websites that provide live view of ongoing cyberattacks so feel free to look for them. This is simply one of them that I like at from time to time :)
 
+* 🆓📚 [**A Tradecraft Primer: Structured Analytic Techniques for Improving Intelligence Analysis**](https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf)<br>
+  This primer highlights structured analytic techniques—some widely used in the private sector and academia, some unique to the intelligence profession. It is not a comprehensive overview of how intelligence officers conduct analysis. Rather, the primer highlights how structured analytic techniques can help one challenge judgments, identify mental mindsets, stimulate creativity, and manage uncertainty. In short, incorporating regular use of techniques such as these can enable one to structure thinking for wrestling with difficult questions.
+
+* 🆓📚 [**MITRE ATT&CK: Design and Philosophy**](https://attack.mitre.org/docs/ATTACK_Design_and_Philosophy_March_2020.pdf)<br>
+  This paper discusses the motivation behind the creation of ATT&CK, the components described within it, its design philosophy, how the project has progressed, and how it can be used. It is meant to be used as an authoritative source of information about ATT&CK as well as a guide for how ATT&CK is maintained and how the ATT&CK methodology is applied to create knowledge bases for new domains.
+
 ### Malware Analysis 🐛 <a name="cyberma"></a>
 * 🆓🌐 [**VIRUSTOTAL**](https://www.virustotal.com/gui/home/upload)<br>
   Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches, automatically share them with the security community.
@@ -233,6 +243,9 @@ Free YouTube course/playlist that will get you through the basics of Bash script
 * 🆓📺 [**Python RIGHT NOW! by NetworkChuck**](https://www.youtube.com/playlist?list=PLIhvC56v63ILPDA2DQBv0IKzqsWTZxCkp)<br>
   Free YouTube course/playlist that will get you through the basics of Python with some interesting exercises, great humour and a lot of coffee 😉☕
 
+* 🆓📚🇵🇱 [**Python na luzie**]<br>
+  Python na luzie, czyli luźne wprowadzenie do programowania w języku Python z szczyptą humoru.
+
 ### Powershell 🐚 <a name="progpo"></a>
 
 ### C++ 🫐 <a name="progcpp"></a>
@@ -247,6 +260,9 @@ Free YouTube course/playlist that will get you through the basics of Bash script
 
 * 🆓🌐 [**OpenGuessr**](https://openguessr.com/) <br>
   OpenGuessr is a browser-based geography game that challenges players to identify real-world locations using Google Street View images, making it an awesome OSINT training tool. It features unlimited gameplay, multiplayer modes, custom community maps, and educational tools that help users improve their geography knowledge and location-identification skills.
+
+* 💵📚 [**Rework**](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745) <br>
+  What you really need to do is stop talking and start working. This book shows you the way. You'll learn how to be more productive, how to get exposure without breaking the bank, and tons more counterintuitive ideas that will inspire and provoke you.
 
 <br/><br/>
 <br/><br/>
