@@ -156,7 +156,7 @@ It shouldn't come to you as a surprise that this section is going to be quite ma
 * 🆓📝 [**Ethical Hacker by Cisco**](https://www.netacad.com/courses/ethical-hacker?courseLang=en-US)<br>
   This course is meant to take you ~70h and goes through the basics of ethical hacking as the name suggests.
 
-### OSINT 🔍 <a name="cyberosint"><a/a>
+### OSINT 🔍 <a name="cyberosint"></a>
 * 💵📚 [**Practical Social Engineering by Joe Gray**](https://nostarch.com/practical-social-engineering) <br>
   If you're into OSINT then do yourself a favour and check out this book. It changed my life :)
 
@@ -184,7 +184,7 @@ It shouldn't come to you as a surprise that this section is going to be quite ma
 * 🆓🌐 [**Osint Dojo**](https://www.osintdojo.com/resources/) <br>
   OSINT Dojo Resources is a comprehensive online directory of free tools, guides, tutorials, and training materials organized by categories such as people searches, geolocation, social media, domains, images, and cryptocurrencies. It serves as a central reference researchers seeking reliable resources to conduct ethical OSINT investigations and develop their investigative skills.
 
-### Cyber Threat Intelligence 🧠 <a name="cybercti></a>
+### Cyber Threat Intelligence 🧠 <a name="cybercti"></a>
 
 * 💵📚 [**The Lazarus Heist – From Hollywood to High Finance: Inside North Korea’s Global Cyber War by Geoff White**](https://www.amazon.co.uk/Lazarus-Heist-Based-Hit-podcast/dp/0241554276) <br>
   This book uncovers the story of the North Korean hacking organization behind some of the world's most audacious cyberattacks, from the Sony Pictures breach to billion-dollar bank and cryptocurrency heists. The book reveals how cybercrime has become a crucial tool for North Korea to generate revenue, evade sanctions, and project power on the global stage. It's not a technical book but still highly interesting.
