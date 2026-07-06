@@ -264,6 +264,9 @@ Free YouTube course/playlist that will get you through the basics of Bash script
 * 💵📚 [**Rework**](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745) <br>
   What you really need to do is stop talking and start working. This book shows you the way. You'll learn how to be more productive, how to get exposure without breaking the bank, and tons more counterintuitive ideas that will inspire and provoke you.
 
+* 💵📚🇵🇱 [**Prosto o AI. Jak działa i myśli sztuczna inteligencja?**](https://www.empik.com/prosto-o-ai-jak-dziala-i-mysli-sztuczna-inteligencja-robert-trypuz,p1526728173,ksiazka-p)<br>
+  Książka o tym jak działa AI (LLM) od podstaw. Nie trzeba być od razu ekspertem w tej dziedzinie ale dobrze znać przynajmniej jakieś podstawy.
+
 <br/><br/>
 <br/><br/>
 <br/><br/>
