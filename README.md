@@ -208,6 +208,9 @@ It shouldn't come to you as a surprise that this section is going to be quite ma
 * 🆓📚 [**MITRE ATT&CK: Design and Philosophy**](https://attack.mitre.org/docs/ATTACK_Design_and_Philosophy_March_2020.pdf)<br>
   This paper discusses the motivation behind the creation of ATT&CK, the components described within it, its design philosophy, how the project has progressed, and how it can be used. It is meant to be used as an authoritative source of information about ATT&CK as well as a guide for how ATT&CK is maintained and how the ATT&CK methodology is applied to create knowledge bases for new domains.
 
+* 🆓🌐 [**An (in)Competent Cyber Program – A brief cyber history of the ‘CCP’**](https://intrusiontruth.wordpress.com/2021/07/29/an-incompetent-cyber-program-a-brief-cyber-history-of-the-ccp/) <br>
+  A brief and highly critical overview of the chinese cyber program.
+
 ### Malware Analysis 🐛 <a name="cyberma"></a>
 * 🆓🌐 [**VIRUSTOTAL**](https://www.virustotal.com/gui/home/upload)<br>
   Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches, automatically share them with the security community.
