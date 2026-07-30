@@ -64,9 +64,6 @@ This course consists of 6 smaller courses with the final exam at the end. You ca
 It's an awesome introductory series of courses that can get you a nice certificate in the Networking field. Also you can try to take Cisco Certified Support Technician (CCST) Network exam afterwards but this one isn't free at the time of making this list.<br>
 This course consists of 4 smaller courses with the final exam at the end. You can take each course individualy and get a smaller certification each time you complete it if you wish to. Here's a list of the courses mentioned: Networking Basics, Networking Devices and Initial Configuration, Network Addressing and Basic Troubleshooitng, Network Support and Security.
 
-* 🆓🌐🇵🇱 [**Navoica (Polish Only!!!)**](https://discovery.navoica.pl/courses?navoica_product_pl%5BrefinementList%5D%5Bsubject%5D%5B0%5D=Informatyka&navoica_product_pl%5BrefinementList%5D%5Bsubject%5D%5B1%5D=Matematyka&navoica_product_pl%5BrefinementList%5D%5Bsubject%5D%5B2%5D=Programowanie&navoica_product_pl%5BsortBy%5D=navoica_product_pl%2Fsort%2Fenrollment_start%3Adesc)<br>
-  Navoica to platforma z kursami tworzonymi przez polskie uniwersytety. Jest finansowana z budżetu Państwa, więć wszystkie kursy są dostępne za darmo, wystarczy się zalogować. Dostępne są kursy z m.in. informatyki, programowania i matematyki.
-
 ***
 
 ## Operating Systems 🧭 <a name="os"></a>
@@ -155,6 +152,9 @@ It shouldn't come to you as a surprise that this section is going to be quite ma
 
  * 💵📚🇵🇱 [**Wprowadzenie do bezpieczeństwa IT - Tom 1**](https://wydawnictwo.securitum.pl/ksiazka-wprowadzenie-do-bezpieczenstwa-it-tom-1)<br>
   ONLY IN POLISH!!! Ponad 900 stron wypchanych wiedzą. Znajdziesz tu wszystko: od urządzeń mobilnych, przez Powershell w ofensywie, aż po bezpieczeństwo fizyczne obiektów. Polecam skupić się na rozdziałach, które interesują cię najbardziej, ponieważ zakres tematów jest bardzo szeroki i niektóre z nich będą dla ciebie bardziej użyteczne niż inne (co nie oznacza, że musisz je zignorować 😉). Polecam.
+
+* 💵📚🇵🇱 [**Wprowadzenie do bezpieczeństwa IT - Tom 2**](https://wydawnictwo.securitum.pl/ksiazka-wprowadzenie-do-bezpieczenstwa-it-tom-2)<br>
+  ONLY IN POLISH!!! Kontynuacja Tomu 1. Moim zdaniem nie tak ciekawa jak poprzedniczka ale to może być kwestia subiektywna.
 
 ### Offensive ⚔️ <a name="cyberof"></a>
 * 🆓📝 [**Ethical Hacker by Cisco**](https://www.netacad.com/courses/ethical-hacker?courseLang=en-US)<br>
