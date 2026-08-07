@@ -155,6 +155,9 @@ It shouldn't come to you as a surprise that this section is going to be quite ma
 
 * 💵📚🇵🇱 [**Wprowadzenie do bezpieczeństwa IT - Tom 2**](https://wydawnictwo.securitum.pl/ksiazka-wprowadzenie-do-bezpieczenstwa-it-tom-2)<br>
   ONLY IN POLISH!!! Kontynuacja Tomu 1. Moim zdaniem nie tak ciekawa jak poprzedniczka ale to może być kwestia subiektywna.
+  
+* 🆓⚒️ [**lynis**](https://github.com/cisofy/lynis)<br>
+  Lynis is a security auditing and hardening tool, for UNIX-based systems that you run directly in the shell. It's simple and provides a lot of details + further readings that can greatly enhance your system's security and personal knowledge of the subject.
 
 ### Offensive ⚔️ <a name="cyberof"></a>
 * 🆓📝 [**Ethical Hacker by Cisco**](https://www.netacad.com/courses/ethical-hacker?courseLang=en-US)<br>
