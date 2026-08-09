@@ -191,6 +191,9 @@ It shouldn't come to you as a surprise that this section is going to be quite ma
 * 🆓🌐 [**Osint Dojo**](https://www.osintdojo.com/resources/) <br>
   OSINT Dojo Resources is a comprehensive online directory of free tools, guides, tutorials, and training materials organized by categories such as people searches, geolocation, social media, domains, images, and cryptocurrencies. It serves as a central reference researchers seeking reliable resources to conduct ethical OSINT investigations and develop their investigative skills.
 
+* 💵📚🇵🇱 [**Bezpieczeństwo aplikacji webowych**](https://wydawnictwo.securitum.pl/ksiazka-bezpieczenstwo-aplikacji-webowych)<br>
+  ONLY IN POLISH!!! Nazwa książki jest nieco myląca, w znacznej mierze koncentruje się na technikach związanych z atakiem niż obroną. Jeżeli jest to coś co Cię interesuje to byćmoże warto zapoznać się z tą pozycją. Książkę kupiłem w 2026r i na tę chwilę dostępne jest tylko oryginalne wydanie z 2019r przez co część treści nie jest aktualna.
+
 ### Cyber Threat Intelligence 🧠 <a name="cybercti"></a>
 
 * 💵📚 [**The Lazarus Heist – From Hollywood to High Finance: Inside North Korea’s Global Cyber War by Geoff White**](https://www.amazon.co.uk/Lazarus-Heist-Based-Hit-podcast/dp/0241554276) <br>
