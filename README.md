@@ -215,7 +215,10 @@ It shouldn't come to you as a surprise that this section is going to be quite ma
   This paper discusses the motivation behind the creation of ATT&CK, the components described within it, its design philosophy, how the project has progressed, and how it can be used. It is meant to be used as an authoritative source of information about ATT&CK as well as a guide for how ATT&CK is maintained and how the ATT&CK methodology is applied to create knowledge bases for new domains.
 
 * 🆓🌐 [**An (in)Competent Cyber Program – A brief cyber history of the ‘CCP’**](https://intrusiontruth.wordpress.com/2021/07/29/an-incompetent-cyber-program-a-brief-cyber-history-of-the-ccp/) <br>
-  A brief and highly critical overview of the chinese cyber program.
+  A brief and highly critical overview of the Chinese cyber program.
+
+* 🆓🌐 [**Russia's Strategy in Cyberspace by NATO Strategic Communications Centre of Excellence**](https://stratcomcoe.org/publications/russias-strategy-in-cyberspace/210) <br>
+  A brief overview of the Russian cyber program and it's modus operandi.
 
 ### Malware Analysis 🐛 <a name="cyberma"></a>
 * 🆓🌐 [**VIRUSTOTAL**](https://www.virustotal.com/gui/home/upload)<br>
